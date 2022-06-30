@@ -29,4 +29,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbajaj13&theme=dark" alt="vanshbajaj13" /></p>
 <p align="left"> <img src="https://wakatime.com/share/@vanshbajaj13/e0eb07e3-7f38-43df-8821-5ccfabba1001.svg" width="400" height="400"/> </p>
 
-![snake gif](https://github.com/vanshbajaj13/vanshbajaj13/blob/output/github-contribution-grid-snake.gif)
+<!-- platane/snk works, it just puts it on a new branch -->
+
+  
+
+![vanshbajaj13's snake gif](https://github.com/vanshbajaj/vanshbajaj/blob/output/github-contribution-grid-snake.svg)
