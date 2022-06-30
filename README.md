@@ -27,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshbajaj13&show_icons=true&locale=en" alt="vanshbajaj13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbajaj13&" alt="vanshbajaj13" /></p>
-<p align="left"> <img src="https://wakatime.com/share/@vanshbajaj13/0492b2fb-e00f-4cc9-9384-79c9317bba7f.svg">  width="250" height="300"/> </p>
+<p align="left"> <img src="https://wakatime.com/share/@vanshbajaj13/0492b2fb-e00f-4cc9-9384-79c9317bba7f.svg" width="250" height="300"/> </p>
