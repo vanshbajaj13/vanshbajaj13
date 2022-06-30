@@ -33,4 +33,4 @@
 
   
 
-![vanshbajaj13's snake gif](https://github.com/vanshbajaj/vanshbajaj/blob/output/github-contribution-grid-snake.svg)
+![vanshbajaj13's snake gif](https://github.com/vanshbajaj13/vanshbajaj13/blob/output/github-contribution-grid-snake.svg)
